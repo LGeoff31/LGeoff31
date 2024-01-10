@@ -1,4 +1,14 @@
 # Geoffrey Lee
 
-Hi 👋, Geoffrey Here, a Software Engineer always looking towards making the next best software idea. In my spare time, I enjoy competitively playing soccer, volleyball, and running.
+* **[My Personal Website](https://geoffreylee.me/)**
+* **[My LinkedIn](https://www.linkedin.com/in/lgeoff31/)**
+
+👋 I'm Geoffrey. I'm a software engineering student interested in expanding my technical knowledge through fun experiences. I'm currently interested in DS&A, full-stack development, and game development. Apart from engineering, I enjoy horror movies 👻 and competitive running/volleyball.
+
+Here are my latest projects
+
+1. **[Returnpal](https://github.com/LGeoff31/returnPal)**: Return packages by the door. 
+1. **[Insomnia](https://github.com/LGeoff31/insomnia2)**: Detection of factors affecting sleep.
+2. **[Where2Visit](https://github.com/LGeoff31/travel-advisor)**: Hospitality-finding app. 
+3. **[Visionarium](https://github.com/LGeoff31/youtubeWebsite)**: Youtube clone. 
 
