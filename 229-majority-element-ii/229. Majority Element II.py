@@ -10,11 +10,11 @@ class Solution:
             else:
                 newCounter = defaultdict(int)
                 for key in count:
-                    if count[key] > 1:
-                        newCounter[key] = count[key] - 1
-                    # count[key] -= 1
-                    # if count[key]!=0:
-                    #     newCounter[key] = count[key]
+                    # if count[key] > 1:
+                    #     newCounter[key] = count[key] - 1
+                    count[key] -= 1
+                    if count[key]!=0:
+                        newCounter[key] = count[key]
                 count = newCounter 
         n = len(nums) // 3
         res = []
