@@ -10,5 +10,5 @@ Here are my latest projects
 1. **[Returnpal](https://github.com/LGeoff31/returnPal)**: Return packages by the door. 
 1. **[Insomnia](https://github.com/LGeoff31/insomnia2)**: Detection of factors affecting sleep.
 2. **[Where2Visit](https://github.com/LGeoff31/travel-advisor)**: Hospitality-finding app. 
-3. **[Visionarium](https://github.com/LGeoff31/youtubeWebsite)**: Youtube clone. 
+3. **[FitSync](https://github.com/LGeoff31/workout_app)**: Workout Buddy.
 
