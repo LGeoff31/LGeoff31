@@ -3,7 +3,7 @@
 * **[My Personal Website](https://geoffreylee.me/)**
 * **[My LinkedIn](https://www.linkedin.com/in/lgeoff31/)**
 
-👋 I'm Geoffrey. 
+I'm Geoffrey 👋 
 
 * I'm a software engineering student at Waterloo
 * My current interests lie in competitive programming, full-stack development, and game development
