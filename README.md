@@ -11,9 +11,9 @@ I'm Geoffrey 👋
 
 Here are my latest projects:
 
-1. **[Returnpal](https://github.com/LGeoff31/returnPal)**: Return packages by the door. 
-2. **[UwRez](https://github.com/LGeoff31/uwdorm)**: Share and read reviews about Waterloo residences.  
-3. **[Where2Visit](https://github.com/LGeoff31/travel-advisor)**: Hospitality-finding app.
-4. **[Insomnia](https://github.com/LGeoff31/insomnia2)**: Detection of factors affecting sleep.
+1. **[Returnpal](https://github.com/LGeoff31/returnPal)**: 📦 Return packages by the door
+2. **[UwRez](https://github.com/LGeoff31/uwdorm)**: 🏠 Share and read reviews about Waterloo residences
+3. **[Where2Visit](https://github.com/LGeoff31/travel-advisor)**: 🍔 Food finding app
+4. **[Insomnia](https://github.com/LGeoff31/insomnia2)**: 🛏️ Analysis of factors affecting sleep
 
 Currently working on my own **[Interpreter](https://github.com/LGeoff31/Own-Interpreter)**
