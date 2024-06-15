@@ -14,4 +14,4 @@ Here are my latest projects:
 3. **[Where2Visit](https://github.com/LGeoff31/travel-advisor)**: 🍔 Food finding app
 4. **[Insomnia](https://github.com/LGeoff31/insomnia2)**:         🛏️ Analysis of factors affecting sleep
 
-Currently working on my own **[Interpreter](https://github.com/LGeoff31/Own-Interpreter)**
+Currently working on my own **[Interpreter](https://github.com/LGeoff31/MetaScript)**
