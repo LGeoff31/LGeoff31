@@ -14,4 +14,4 @@ Here are my latest projects:
 3. **[MetaScript](https://github.com/LGeoff31/MetaScript)**:      💻 Interpreted programming language
 4. **[Insomnia](https://github.com/LGeoff31/insomnia2)**:         🛏️ Analysis of factors affecting sleep
 
-Currently working on a creative take on algorithmic sorting visualizations **[AlgoFlow](https://github.com/LGeoff31/AlgoFlow)**
+Currently working on a creative take on algorithmic sorting visualization **[AlgoFlow](https://github.com/LGeoff31/AlgoFlow)**
