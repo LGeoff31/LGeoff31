@@ -11,7 +11,7 @@ Here are my latest projects:
 
 1. **[Returnpal](https://github.com/LGeoff31/returnPal)**:        📦 Return packages by the door
 2. **[UwRez](https://github.com/LGeoff31/uwdorm)**:               🏠 Share and read reviews about Waterloo residences
-3. **[MetaScript](https://github.com/LGeoff31/MetaScript)**:      🍔 Interpreted programming language
-4. **[Insomnia](https://github.com/LGeoff31/insomnia2)**:         🛏️ Analysis of factors affecting sleep
+3. **[MetaScript](https://github.com/LGeoff31/MetaScript)**:      💻 Interpreted programming language
+4. **[Insomnia](https://github.com/LGeoff31/insomnia2)**:         𓊍 Analysis of factors affecting sleep
 
 Currently working on a creative take on algorithmic sorting visualizations **[AlgoFlow](https://github.com/LGeoff31/AlgoFlow)**
